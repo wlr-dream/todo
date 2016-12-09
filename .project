@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>todo-master</name>
+	<name>todo</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,9 +14,16 @@
 	<natures>
 		<nature>com.aptana.projects.webnature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>js/jquery.js</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/js/jquery.js</locationURI>
+		</link>
+	</linkedResources>
 	<filteredResources>
 		<filter>
-			<id>1480596065845</id>
+			<id>1477977914988</id>
 			<name></name>
 			<type>26</type>
 			<matcher>
